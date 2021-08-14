@@ -12,5 +12,5 @@ for i in range(n):
     y_coordinates.append((y_coordinates[-1] + 2 * vertex_coordinates[r][1]) / 3)
 fig, ax = plt.subplots()
 ax.scatter(x_coordinates, y_coordinates, s = 0.1)
-ax.set(title='Случайные точки')
+ax.set(title=f'Sierpinski square for {n} points)
 plt.show()
