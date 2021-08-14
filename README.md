@@ -16,4 +16,8 @@ When using the variant that uses the mathplotlib library for large `n` (~> 10000
 **An example of drawing a triangle for n = 10e7 without decreasing linewidth to 0**<br/><br/>
 ![image](https://user-images.githubusercontent.com/71276784/129447744-5c6b5639-185c-4437-b46f-c539f1e0080f.png)<br/><br/>
 **An example of drawing a triangle for n = 10e7 with decreasing linewidth to 0**<br/><br/>
-![image](https://user-images.githubusercontent.com/71276784/129447992-56846649-d4a5-4b06-89de-6b895313d129.png)
+![image](https://user-images.githubusercontent.com/71276784/129447992-56846649-d4a5-4b06-89de-6b895313d129.png)<br/><br/><br/>
+**Example of distribution of points with increasing n for a triangle**<br/><br/>
+![Гифка с Gifius ru](https://user-images.githubusercontent.com/71276784/129448491-b5381c06-5248-4baf-9a59-539a3ccd83e4.gif)<br/><br/>
+**Example of distribution of points with increasing n for a square**<br/><br/>
+![Гифка с Gifius ru (2)](https://user-images.githubusercontent.com/71276784/129448692-614cee2b-e3c9-41c1-b660-a1db8615996c.gif)
