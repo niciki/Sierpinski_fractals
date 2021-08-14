@@ -20,5 +20,6 @@ When using the variant that uses the mathplotlib library for large `n` (~> 10000
 **Example of distribution of points with increasing n for a triangle**<br/><br/>
 ![Гифка с Gifius ru](https://user-images.githubusercontent.com/71276784/129448491-b5381c06-5248-4baf-9a59-539a3ccd83e4.gif)<br/><br/>
 **Example of distribution of points with increasing n for a square**<br/><br/>
-![Гифка с Gifius ru (3)](https://user-images.githubusercontent.com/71276784/129448704-2e59f893-49dc-4338-bf22-155d3509ca0c.gif)
+![Гифка с Gifius ru (4)](https://user-images.githubusercontent.com/71276784/129448715-ddc54889-15d5-4954-ac43-ac86d7b08c7f.gif)
+
 
